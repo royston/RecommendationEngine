@@ -1,2 +1,4 @@
 ##Recommendation Engine
-Building a recommendataion engine, powered by Machine Learning. Inspired by the Coursera course I just completed.
+Building a recommendation engine, powered by Machine Learning. Inspired by the Coursera course I just completed.
+
+Using Pearson distance to calculate similarity between any two given users
